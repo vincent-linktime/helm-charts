@@ -2,24 +2,10 @@ apiVersion: v1
 entries:
   hdfs-k8s:
   - apiVersion: v1
-    created: "2023-04-14T20:44:35.931115+08:00"
-    digest: 787ae4552c01c37b4959c52424815523c9c18273bc6d717cb4085204f0510648
+    created: "2023-04-14T21:18:25.298674+08:00"
+    digest: 4cbde82f049efff62f797921602b6dcfda226ed1da599b39f677b5b56bb14b27
     name: hdfs-k8s
     urls:
-    - https://vincent-linktime.github.io/helm-charts/hdfs-k8s-1.0.2.tgz
-    version: 1.0.2
-  - apiVersion: v1
-    created: "2023-04-14T20:44:35.927096+08:00"
-    digest: 35afd1e27c526b3b3d691e48f01d0975d52bdc375ed4663f7dc8bf62ff6f37d2
-    name: hdfs-k8s
-    urls:
-    - https://vincent-linktime.github.io/helm-charts/hdfs-k8s-1.0.1.tgz
-    version: 1.0.1
-  - apiVersion: v1
-    created: "2023-04-14T20:44:35.934512+08:00"
-    digest: b95e673abc3e5e9eb1522e55a47cc76637689df6343e47ef20e364ba5583339d
-    name: hdfs-k8s
-    urls:
-    - https://vincent-linktime.github.io/helm-charts/hdfs-k8s-1.0.tgz
-    version: "1.0"
-generated: "2023-04-14T20:44:35.923257+08:00"
+    - https://vincent-linktime.github.io/helm-charts/hdfs-k8s-1.0.3.tgz
+    version: 1.0.3
+generated: "2023-04-14T21:18:25.295514+08:00"
