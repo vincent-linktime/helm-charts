@@ -2,7 +2,7 @@ apiVersion: v1
 entries:
   hdfs-k8s:
   - apiVersion: v1
-    created: "2023-04-21T11:21:29.44763+08:00"
+    created: "2023-04-22T17:33:55.357889+08:00"
     digest: 4cbde82f049efff62f797921602b6dcfda226ed1da599b39f677b5b56bb14b27
     name: hdfs-k8s
     urls:
@@ -10,16 +10,16 @@ entries:
     version: 1.0.3
   hive:
   - apiVersion: v1
-    created: "2023-04-21T11:21:29.447898+08:00"
+    created: "2023-04-22T17:33:55.358182+08:00"
     description: Deploying Hive Metastore and Hive Server2 on Kubernetes
-    digest: 137616a524120e682b245c85e68927f899bc8a5a471a8bca89a58a7c8cab78e4
+    digest: 57d98a9aabd153f88f9055473ef1344916ce83d9fa3be56ec8d01294a30f3a43
     name: hive
     urls:
-    - https://vincent-linktime.github.io/helm-charts/hive-1.0.1.tgz
-    version: 1.0.1
+    - https://vincent-linktime.github.io/helm-charts/hive-1.0.2.tgz
+    version: 1.0.2
   mysql:
   - apiVersion: v1
-    created: "2023-04-21T11:21:29.448083+08:00"
+    created: "2023-04-22T17:33:55.358419+08:00"
     description: A Helm chart for deploying MySQL on Kubernetes
     digest: 502f965538d5f7d7c11c8a0c5c91353f301c0ca3d3641194e15135ad2bdf95e7
     name: mysql
@@ -28,10 +28,10 @@ entries:
     version: 1.0.0
   simple-hdfs:
   - apiVersion: v1
-    created: "2023-04-21T11:21:29.448876+08:00"
+    created: "2023-04-22T17:33:55.360817+08:00"
     digest: a8a66a38002e15de4ae868edd9f026029e197735638f462c918f054be15cdd80
     name: simple-hdfs
     urls:
     - https://vincent-linktime.github.io/helm-charts/simple-hdfs-1.0.0.tgz
     version: 1.0.0
-generated: "2023-04-21T11:21:29.444061+08:00"
+generated: "2023-04-22T17:33:55.353779+08:00"
